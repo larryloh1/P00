@@ -47,8 +47,8 @@ public class CalculatorTest {
 	@Test
 	public void testDivide() {
 		//fail("Not yet implemented");  33
-		int a  = 900;
-		int b  = 9;
+		int a  = 800;
+		int b  = 8;
 		
 		Calculator cal = new Calculator();
 		int actual = cal.divide(a, b);
